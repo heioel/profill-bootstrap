@@ -43,3 +43,17 @@
 .space-top a{
     color: #ffffff;
 }
+
+.footer-line{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    background-color: #1a1d20;
+}
+
+.footer-line a{
+    text-decoration: none;
+}
