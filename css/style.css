@@ -14,7 +14,7 @@
     background-color: #edf6f9;
 }
 
-.about h3,.project h3{
+.about h3,.project h3,.contact h3{
     margin-top: 50px;
 }
 
@@ -24,4 +24,12 @@
 
 .project{
     background-color: #e0e1dd;
+}
+
+.contact{
+    background-color: #adb5bd;
+}
+
+.card{
+    background-color: #ced4da;
 }
