@@ -5,19 +5,23 @@
     background-position: 0 0;
     background-size: cover;
 }
-.col-md-12 img{
+.img-radius{
     border-radius: 50%;
 }
 
-.about{
+.about,.project{
     height: 100vh;
-    background-color: #e0e1dd;
+    background-color: #edf6f9;
 }
 
-.about h3{
+.about h3,.project h3{
     margin-top: 50px;
 }
 
 .space-top{
     margin-top: 30px;
+}
+
+.project{
+    background-color: #e0e1dd;
 }
