@@ -30,6 +30,12 @@
     background-color: #adb5bd;
 }
 
-.card{
+.card-color{
     background-color: #ced4da;
+}
+
+.footer{
+    height: 40vh;
+    background-color: #343a40;
+    color: #f8f9fa;
 }
