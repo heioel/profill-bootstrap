@@ -1,4 +1,4 @@
-.container-fluid{
+.bg-home{
     height: 100vh;
     background-image: url(../img/project_3.jpg);
     background-repeat: no-repeat;
@@ -7,4 +7,17 @@
 }
 .col-md-12 img{
     border-radius: 50%;
+}
+
+.about{
+    height: 100vh;
+    background-color: #e0e1dd;
+}
+
+.about h3{
+    margin-top: 50px;
+}
+
+.space-top{
+    margin-top: 30px;
 }
