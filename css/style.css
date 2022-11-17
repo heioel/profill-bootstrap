@@ -1,0 +1,10 @@
+.container-fluid{
+    height: 100vh;
+    background-image: url(../img/project_3.jpg);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+}
+.col-md-12 img{
+    border-radius: 50%;
+}
