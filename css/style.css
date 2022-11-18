@@ -10,12 +10,12 @@
 }
 
 .about,.project{
-    height: 100vh;
+    height: 110vh;
     background-color: #edf6f9;
 }
 
 .about h3,.project h3,.contact h3{
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
 .space-top{
