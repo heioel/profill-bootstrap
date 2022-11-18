@@ -8,7 +8,6 @@ window.onscroll = () => {
             'color': '#ffffff'
         });
     } else {
-        setTimeout(function () {})
         navbar.classList.remove('active');
         $('nav a').css({
             'color': '#000000'
