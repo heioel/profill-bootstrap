@@ -2,16 +2,13 @@
     height: 100vh;
     background-image: url(../img/project_3.jpg);
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: 0 0;
     background-size: cover;
+    overflow: hidden;
 }
 .img-radius{
     border-radius: 50%;
-}
-
-.about,.project{
-    height: 110vh;
-    background-color: #edf6f9;
 }
 
 .about h3,.project h3,.contact h3{
@@ -35,7 +32,6 @@
 }
 
 .footer{
-    height: 40vh;
     background-color: #343a40;
     color: #f8f9fa;
 }
@@ -46,7 +42,6 @@
 
 .footer-line{
     width: 100%;
-    height: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
